@@ -1,0 +1,10 @@
+C:\Users\megre\OneDrive\Документы\Visual Studio 2015\Projects\ImageMarking\ImageMarking\bin\Debug\ImageMarking.exe.config
+C:\Users\megre\OneDrive\Документы\Visual Studio 2015\Projects\ImageMarking\ImageMarking\bin\Debug\ImageMarking.exe
+C:\Users\megre\OneDrive\Документы\Visual Studio 2015\Projects\ImageMarking\ImageMarking\bin\Debug\ImageMarking.pdb
+C:\Users\megre\OneDrive\Документы\Visual Studio 2015\Projects\ImageMarking\ImageMarking\obj\Debug\ImageMarking.csprojResolveAssemblyReference.cache
+C:\Users\megre\OneDrive\Документы\Visual Studio 2015\Projects\ImageMarking\ImageMarking\obj\Debug\ImageMarking.FileOpen.resources
+C:\Users\megre\OneDrive\Документы\Visual Studio 2015\Projects\ImageMarking\ImageMarking\obj\Debug\ImageMarking.Properties.Resources.resources
+C:\Users\megre\OneDrive\Документы\Visual Studio 2015\Projects\ImageMarking\ImageMarking\obj\Debug\ImageMarking.csproj.GenerateResource.Cache
+C:\Users\megre\OneDrive\Документы\Visual Studio 2015\Projects\ImageMarking\ImageMarking\obj\Debug\ImageMarking.exe
+C:\Users\megre\OneDrive\Документы\Visual Studio 2015\Projects\ImageMarking\ImageMarking\obj\Debug\ImageMarking.pdb
+C:\Users\megre\OneDrive\Документы\Visual Studio 2015\Projects\ImageMarking\ImageMarking\obj\Debug\ImageMarking.Main.resources
